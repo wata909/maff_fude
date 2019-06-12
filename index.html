@@ -51,10 +51,10 @@ var  onGsClick = function(e) {
 
 var mvtSource = new L.TileLayer.MVTSource({
     url: "./mvt/{z}/{x}/{y}.pbf",
-    minZoom: 13,
+    minZoom: 7,
     maxZoom: 13,
     zIndex: 3,
-    debug: true,
+//    debug: true,
     clickableLayers: ["fude"],
     mutexToggle:true,
     attribution: "<a href='http://www.maff.go.jp/j/tokei/porigon/index.html' target='_blank'>出典：「筆ポリゴンデータ」（農林水産省）（R1年6月5日に利用）</a>",
