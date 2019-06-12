@@ -2,7 +2,7 @@
 "name": "tile07_107_55-Z16-as.mbtiles + tile07_108_55-Z16-as.mbtiles + tile07_108_54-Z16-as.mbtiles + tile07_109_54-Z16-as.mbtiles + tile07_109_53-Z16-as.mbtiles + tile07_109_51-Z16-as.mbtiles + tile07_109_50-Z16-as.mbtiles + tile07_110_53-Z16-as.mbtiles",
 "description": "tile07_115_46-Z16-as.mbtiles",
 "version": "2",
-"minzoom": "13",
+"minzoom": "7",
 "maxzoom": "13",
 "center": "143.742371,43.844432,16",
 "bounds": "122.942505,24.046464,145.805054,45.521744",
